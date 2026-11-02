@@ -67,4 +67,4 @@ jupyter notebook event_study.ipynb
 ```
 
 ---
-*Part of my MSc International Finance portfolio (HWR Berlin). Methods: event studies, CAPM, OLS, hypothesis testing.*
+*Part of my MSc International Finance project work (HWR Berlin). Methods: event studies, CAPM, OLS, hypothesis testing.*
